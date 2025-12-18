@@ -1,2 +1,2 @@
 # exo-contracts
-Core smart contracts for the Exohash protocol on Sei.
+Smart contracts for the Exohash protocol on Sei.
