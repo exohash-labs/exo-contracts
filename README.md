@@ -120,7 +120,3 @@ and threat model.
 
 MIT
 
-
-## License
-
-MIT
